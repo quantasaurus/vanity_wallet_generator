@@ -14,7 +14,7 @@ Run with `python3 vanity.py`.
 
 ## What if I don't have python?
 Google Colab is a great option for running jupyter notebooks without any local python requirements.
-https://colab.research.google.com/drive/1qNKtflFbZgonlRjiLSq9J8qmRXGyY1Gs?usp=sharing
+https://colab.research.google.com/drive/1xSONPDG4IU6q2Cpr8rHs26Q7MKTDqzX7?usp=sharing
 
 ## Roadmap
 More tools to come soon!
