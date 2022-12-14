@@ -1,6 +1,3 @@
-## General Algorand Tools
-Current tools: vanity wallet generator
-
 ## Description
 Creates a vanity wallet address for algorand blockchain.
 
